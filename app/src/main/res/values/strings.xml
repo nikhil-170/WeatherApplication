@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">InClass08</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appID">5d57e2bdc24469a4ddef82494bf3a0ac</string>
+    <string name="temperature">Temperature</string>
+    <string name="temp_max">Temperature Max</string>
+    <string name="temp_min">Temperature Min</string>
+    <string name="description">Description</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_degree">Wind Degree</string>
+    <string name="cloudiness">Cloudiness</string>
+
+    <string name="F">F</string>
+    <string name="percent">%</string>
+    <string name="miles_per_hour">miles/hr</string>
+    <string name="degree">degree</string>
+    <string name="cities">Cities</string>
+    <string name="CurrentWeather">Current Weather</string>
+    <string name="checkforecast">Check Forecast</string>
+    <string name="WeatherForecast">Weather Forecast</string>
+    <string name="Max">Max: </string>
+    <string name="Min">Min: </string>
+    <string name="humiditycolon">Humidity: </string>
+
+</resources>
